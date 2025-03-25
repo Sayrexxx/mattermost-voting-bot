@@ -15,5 +15,4 @@ core
 _cgo_*
 _obj
 /VERSION.cache
-/pkg/
 go.sum
